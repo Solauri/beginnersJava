@@ -1,9 +1,8 @@
 package beginnersJavaChapter5;
 
 // Isaac J. Mejia
-// 7.22.20
+// 7.22.21
 /*
-    Try This 5-1
 
     Demonstrate the bubble sort
 
